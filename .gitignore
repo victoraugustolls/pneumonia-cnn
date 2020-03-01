@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Keras
+*.model
+*.dcm
+*.jpeg
+*.png
